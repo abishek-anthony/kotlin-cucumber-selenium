@@ -1,1 +1,2 @@
-# kotlin-cucumber-selenium
+# Selenium tests triggered by Cucumber 
+## Language used is Kotlin
